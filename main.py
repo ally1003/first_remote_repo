@@ -8,3 +8,8 @@ def expreimental():
 
 def new_feature():
     print('dev dev dev')
+
+
+def new():
+    print('new')
+    print('hi')
