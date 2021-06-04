@@ -1,4 +1,4 @@
-print('master')
+print('devloping...')
 
 def fire():
     print('FRIDAY')
